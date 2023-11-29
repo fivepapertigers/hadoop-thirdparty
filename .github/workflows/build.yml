@@ -39,5 +39,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: hadoop-shaded-guava
-        path: /home/runner/.m2/repository/org/apache/hadoop/thirdparty/hadoop-shaded-guava/1.2.0-SNAPSHOT/hadoop-shaded-guava-1.2.0-SNAPSHOT.pom
+        path: /home/runner/.m2/repository/org/apache/hadoop/thirdparty/hadoop-shaded-guava/1.2.0-SNAPSHOT/hadoop-shaded-guava-1.2.0-SNAPSHOT.jar
 
